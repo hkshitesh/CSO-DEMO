@@ -14,8 +14,8 @@ public class CalcClass {
 	{
 		return a*b;
 	}
-	public void show()
+	public int div(int a, int b)
 	{
-		System.out.println("Hello World");;
+		return a/b;
 	}
 }
